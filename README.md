@@ -1,6 +1,9 @@
 # FeedMyFlash
 
-### Feeding the Rat when people tweets to feed him. Live view on youtube. Tweeting status on @feedmyflash.
+Have you ever wanted that the Internet feeds your pet rather then you do everyday? I did. 
+So one fine day, I made a setup in which a rat getting feed by the Tweets from people who want to feed them, and they all can see the rat live on youtube. 
+
+Later I've open sourced the project in order to share it with community. If you make something by using this. Tweet me @neelkadia I would love to see what you build.
 
 ### Diagram
 ![Diagram](https://github.com/neelkadia/FeedMyFlash/blob/master/flash_diagram.png)
