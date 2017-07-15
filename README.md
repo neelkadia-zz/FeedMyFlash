@@ -2,6 +2,9 @@
 
 ### Feeding the Rat when people tweets to feed him. Live view on youtube. Tweeting status on @feedmyflash.
 
+### Diagram
+![Diagram](https://github.com/neelkadia/FeedMyFlash/blob/master/flash_diagram.png)
+
 
 ### Why I made this?
 www.neelkadia.com/feedmyflash
